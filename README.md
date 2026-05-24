@@ -1,62 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Soumik%20Chaudhuri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%C3%97%20AI%2FML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:023E8A&height=220&section=header&text=Soumik%20Chaudhuri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%C3%97%20AI%2FML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Flutter+×+AI%2FML+Developer;🧠+Building+Intelligent+Systems;💻+Full+Stack+Engineer;🎸+Coder+by+day%2C+Musician+by+night;🤖+Creator+of+J.A.R.V.I.S)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Flutter+×+AI%2FML+Developer;🧠+Building+Intelligent+Systems;💻+Full+Stack+Engineer;🤖+Creator+of+J.A.R.V.I.S+%26+CraftHub;🎸+Coder+by+day%2C+Musician+by+night)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=soumik3312&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/soumik3312)
-[![GitHub followers](https://img.shields.io/github/followers/soumik3312?style=for-the-badge&color=00B4D8&labelColor=0A0F1E)](https://github.com/soumik3312)
+[![GitHub followers](https://img.shields.io/github/followers/soumik3312?style=for-the-badge&color=00B4D8&labelColor=0A0F1E&label=FOLLOWERS)](https://github.com/soumik3312)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-00B4D8?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:soumikchaudhuri002@gmail.com)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🙋‍♂️ About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
 
 ```yaml
-name: Soumik Chaudhuri
-location: Jaipur, Rajasthan, India 🇮🇳
+name     : Soumik Chaudhuri
+location : Jaipur, Rajasthan, India 🇮🇳
 education: B.Tech CSE (AIML) @ UEM Jaipur | CGPA: 8.3 | 2027 Expected
 experience: Flutter Developer Intern & Team Leader @ Blue Planet Infosolutions
-            → Led 14 developers | Shipped apps to 1000+ users | 6 Months
-tagline: "I build the app and the brain inside it."
-music: Plays 7 instruments 🎸🥁🎹 | Synthesizer, Guitar, Drum,
-       Mouth Organ, ClapBox, Ukulele, Harmonium
-open_to: Full-Time | Freelance | Remote
+             → Led 14 developers | Shipped apps to 1000+ users | 6 Months
+tagline  : "I build the app and the brain inside it."
+music    : 🎸 Guitar · 🥁 Drum · 🎹 Synthesizer · Mouth Organ · ClapBox · Ukulele · Harmonium
+open_to  : Full-Time | Freelance | Remote
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔭 What I'm Up To
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; What I'm Up To
 
-- 🔭 **Currently working on** → CraftHub v2 improvements & NoteGenius AI multilingual backend
-- 🌱 **Currently learning** → System Design, LLM API integrations, Advanced Flutter architecture
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+
+- 🔭 **Currently working on** → CraftHub v2 & NoteGenius AI multilingual backend
+- 🌱 **Currently learning** → System Design, LLM APIs, Advanced Flutter architecture
 - 💬 **Ask me about** → Flutter, Node.js, AI/ML integration, Real-time systems
 - 📫 **Reach me at** → soumikchaudhuri002@gmail.com
-- ⚡ **Fun fact** → I built a real Iron Man-style AI assistant (J.A.R.V.I.S) that controls my phone from my PC 🤖
+- ⚡ **Fun fact** → I built a real Iron Man-style AI assistant that controls my phone from my PC 🤖
+- 🎵 **Secret weapon** → Music clears my head — I play 7 instruments 🎸
 
----
+<br clear="right"/>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> &nbsp; Featured Projects
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🛠️ Stack |
-|:---:|:---:|:---:|
-| [**CraftHub**](https://github.com/soumik3312/CraftHub) | Full-stack real-time collaboration platform with AI matchmaking for 50+ concurrent users | Flutter · Node.js · MongoDB · Gemini API · Socket.IO |
-| [**J.A.R.V.I.S**](https://github.com/soumik3312/Jarvis---Personal-Desktop-AI-Assistant) | Offline AI desktop assistant — 90%+ wake-word accuracy, OS automation, USB phone control, Iron Man HUD | Python · Electron.js · WebSockets · HTML |
-| [**NoteGenius AI**](https://github.com/soumik3312/ai_sumarizer_app) | Multilingual AI note summarizer — OCR, 3 summary formats, 9+ languages, 95% accuracy | Flutter · Python · HuggingFace · PyTorch |
-| [**SportsTix**](https://github.com/soumik3312/Sportstix) | Cross-platform sports ticket booking with 3D stadium views & live match data | Flutter · Firebase · Cricbuzz API · EmailJS |
-| [**Wave Music App**](https://github.com/soumik3312/waveApp) | Ad-free music streaming with dynamic audio filtering & synchronized lyrics | Flutter · Firebase · Dart |
-| [**Telemedicine App**](https://github.com/soumik3312/telemedicineapp) | Healthcare platform with video consultations, medicine delivery & appointments | Flutter · Firebase · Dart |
+<a href="https://github.com/soumik3312/CraftHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumik3312&repo=CraftHub&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_radius=10"/>
+</a>
+<a href="https://github.com/soumik3312/Jarvis---Personal-Desktop-AI-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumik3312&repo=Jarvis---Personal-Desktop-AI-Assistant&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_radius=10"/>
+</a>
+<a href="https://github.com/soumik3312/ai_sumarizer_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumik3312&repo=ai_sumarizer_app&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_radius=10"/>
+</a>
+<a href="https://github.com/soumik3312/Sportstix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumik3312&repo=Sportstix&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_radius=10"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+
+| 🏗️ Project | 📝 What It Does | 🛠️ Stack | ⭐ Highlight |
+|:---|:---|:---|:---:|
+| [**CraftHub**](https://github.com/soumik3312/CraftHub) | Real-time dev collaboration platform with AI matchmaking | Flutter · Node.js · MongoDB · Gemini API | 50+ users |
+| [**J.A.R.V.I.S**](https://github.com/soumik3312/Jarvis---Personal-Desktop-AI-Assistant) | Iron Man-style offline AI desktop assistant | Python · Electron.js · WebSockets | 90%+ accuracy |
+| [**NoteGenius AI**](https://github.com/soumik3312/ai_sumarizer_app) | Multilingual AI note summarizer with OCR | Flutter · PyTorch · HuggingFace | 9+ languages |
+| [**SportsTix**](https://github.com/soumik3312/Sportstix) | Sports ticket booking with 3D stadium views | Flutter · Firebase · Cricbuzz API | Cross-platform |
+| [**Wave Music**](https://github.com/soumik3312/waveApp) | Ad-free music streaming with synced lyrics | Flutter · Firebase · Dart | Dynamic filters |
+| [**Telemedicine**](https://github.com/soumik3312/telemedicineapp) | Video consultations & medicine delivery app | Flutter · Firebase · Dart | Healthcare |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
 
 <div align="center">
 
@@ -99,20 +125,22 @@ open_to: Full-Time | Freelance | Remote
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumik3312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumik3312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&text_color=ffffff&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soumik3312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumik3312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00B4D8&text_color=ffffff&border_radius=10&langs_count=8" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumik3312&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=888888&border_radius=10" width="49%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumik3312&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=888888&border_radius=10" width="55%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -122,31 +150,21 @@ open_to: Full-Time | Freelance | Remote
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumik3312/soumik3312/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumik3312/soumik3312/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/soumik3312/soumik3312/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumik3312/soumik3312/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumik3312/soumik3312/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/soumik3312/soumik3312/output/github-snake.svg"/>
 </picture>
 
 </div>
 
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0A0F1E&interchange=true&bar_color=00B4D8&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 😄 Dev Joke of the Day
 
@@ -156,7 +174,7 @@ open_to: Full-Time | Freelance | Remote
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Certifications
 
@@ -169,7 +187,7 @@ open_to: Full-Time | Freelance | Remote
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect With Me
 
@@ -177,16 +195,20 @@ open_to: Full-Time | Freelance | Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumik-chaudhuri-0bb4b72a8)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumik3312)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Soumik_Code)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Soumik_Code)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__._.soumik._.__/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumikchaudhuri002@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumikchaudhuri002@gmail.com)
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> &nbsp; <em><b>I love connecting with people</b> — feel free to say hi!</em>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer&text=I+build+the+app+and+the+brain+inside+it.+🚀&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,50:0077B6,100:00B4D8&height=130&section=footer&text=I+build+the+app+and+the+brain+inside+it.+🚀&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
