@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/soumik3312/soumik3312/main/header.svg" width="100%" alt="Soumik Chaudhuri — Flutter × AI/ML Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:023E8A&height=220&section=header&text=Soumik%20Chaudhuri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%C3%97%20AI%2FML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
 
 <br/>
 
